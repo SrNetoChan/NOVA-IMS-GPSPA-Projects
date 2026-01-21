@@ -76,7 +76,7 @@ Population_Guinea_2014
 
 https://github.com/Diallo19-Coder/Population_Guinea_2014
 
-## < 2023
+## 2022
 
 Pasteis D.C. Lda: Optimised Pastel de Nata Distribution Company
 
@@ -86,10 +86,10 @@ Regional-Thoughts
 
 https://github.com/mareyam0/Regional-Thoughts
 
-OSM-Interrail-Planner
+LisbonEnvMaps
 
-https://github.com/OSM-Interrail-Planner/osm_interrail_planner
-
+https://github.com/jhoneric/LisbonEnvMaps
 
 Mapping Ocean Hazards in Hawaii
+
 https://github.com/juliakrtz/proj_seminar_ocean_haz
