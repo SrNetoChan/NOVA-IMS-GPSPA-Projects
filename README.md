@@ -3,104 +3,104 @@ List of students project repositories from the NOVA IMS Group Project Seminar on
 
 ## 2025
 
-Lost Item Reporting System
+### Lost Item Reporting System
 
 https://github.com/brktawit/Lost-and-Found
 
-RunLisboa
+### RunLisboa
 
 https://github.com/Ruubenf/running-trails
 
-Civitas
+### Civitas
 
 https://github.com/PatrickKvartsaniy/civitas
 
-Emergency Service Locator (ESL)
+### Emergency Service Locator (ESL)
 
 https://github.com/taiwo-amodu/cs-project
 
-GPSPA Project
+### GPSPA Project
 
 https://github.com/mariolgw/GPSPA_project
 
-Geophoto-Explorer
+### Geophoto-Explorer
 
 https://github.com/TJK-15/Group-Project
 
 ## 2024
 
-Paved Roads Finder
+### Paved Roads Finder
 
 https://github.com/prog-proj-novaims/paved-roads-routes
 
-FrostyTrailMate
+### FrostyTrailMate
 
 https://github.com/FrostyTrailMate/FrostyTrailMate.github.io
 
-restaurante-finder-final-app
+### restaurante-finder-final-app
 
 https://github.com/geotech-programming-project/restaurante-finder-final
 
-GeospatialProject NDVI
+### GeospatialProject NDVI
 
 https://github.com/Group-Project-Seminar-NDVI/GeospatialProject
 
-Geo Coral
+### Geo Coral
 
 https://github.com/GPSProgramming2324/Geo_Coral
 
 ## 2023
 
-Population density mapper for countries in the European union
+### Population density mapper for countries in the European union
 
 https://github.com/Rasanka1991/Population_density_map
 
-Crop Health Monitoring
+### Crop Health Monitoring
 
 https://github.com/Abranidrees/Crop-Health-Monitoring
 
-Web dashboard and backend component for OS-TLS control interface
+### Web dashboard and backend component for OS-TLS control interface
 
 https://github.com/nyinyinyanlin/os-tls-web
 
-Lisbon Search Engine
+### Lisbon Search Engine
 
 https://github.com/ProgrammingCourse2023/Lisbon_Search_Engine
 
-World Population Search
+### World Population Search
 
 https://github.com/Mostafamahdy2/World-Population
 
-VOTING DASHBOARD
+### VOTING DASHBOARD
 
 https://github.com/firat-serge/voter-dashboard
 
-Cadastral Information System for Bhutan
+### Cadastral Information System for Bhutan
 
 https://github.com/yesheysamdrup/CIS
 
-CO2 Emission in Guangdong, China.
+### CO2 Emission in Guangdong, China.
 
 https://github.com/Teanet9ja/guangdong-co2emission
 
-Population_Guinea_2014
+### Population_Guinea_2014
 
 https://github.com/Diallo19-Coder/Population_Guinea_2014
 
 ## 2022
 
-Pasteis D.C. Lda: Optimised Pastel de Nata Distribution Company
+### Pasteis D.C. Lda: Optimised Pastel de Nata Distribution Company
 
 https://github.com/andre-kotze/pasteis-dc
 
-Regional-Thoughts
+### Regional-Thoughts
 
 https://github.com/mareyam0/Regional-Thoughts
 
-LisbonEnvMaps
+### LisbonEnvMaps
 
 https://github.com/jhoneric/LisbonEnvMaps
 
-Mapping Ocean Hazards in Hawaii
+### Mapping Ocean Hazards in Hawaii
 
 https://github.com/juliakrtz/proj_seminar_ocean_haz
