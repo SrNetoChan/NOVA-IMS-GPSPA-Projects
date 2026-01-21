@@ -37,6 +37,17 @@ FrostyTrailMate
 
 https://github.com/FrostyTrailMate/FrostyTrailMate.github.io
 
+restaurante-finder-final-app
+
+https://github.com/geotech-programming-project/restaurante-finder-final
+
+GeospatialProject NDVI
+
+https://github.com/Group-Project-Seminar-NDVI/GeospatialProject
+
+Geo Coral
+
+https://github.com/GPSProgramming2324/Geo_Coral
 
 ## 2023
 
